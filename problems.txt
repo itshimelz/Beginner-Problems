@@ -1,0 +1,60 @@
+Codeforces
+---------
+1. https://codeforces.com/problemset/problem/59/A
+2. https://codeforces.com/problemset/problem/271/A
+3. https://codeforces.com/problemset/problem/71/A
+4. https://codeforces.com/problemset/problem/339/A
+5. https://codeforces.com/problemset/problem/236/A
+6. https://codeforces.com/problemset/problem/266/A
+7. https://codeforces.com/problemset/problem/1703/A
+8. https://codeforces.com/problemset/problem/750/A
+9. https://codeforces.com/problemset/problem/510/A
+10. https://codeforces.com/problemset/problem/4/A
+11. https://codeforces.com/problemset/problem/977/A
+12. https://codeforces.com/problemset/problem/677/A
+13. https://codeforces.com/problemset/problem/1512/A
+
+LightOJ
+-------
+1. https://lightoj.com/problem/dimik-even-odd-2
+2. https://lightoj.com/problem/dimik-divisor
+3. https://lightoj.com/problem/dimik-box-1
+4. https://lightoj.com/problem/dimik-count-numbers
+5. https://lightoj.com/problem/dimik-square-number
+6. https://lightoj.com/problem/dimik-run-rate-1
+7. https://lightoj.com/problem/dimik-factorial
+8. https://lightoj.com/problem/dimik-character-frequency
+9. https://lightoj.com/problem/dimik-vowel-count
+10. https://lightoj.com/problem/greetings-from-lightoj
+11. https://lightoj.com/problem/opposite-task
+12. https://lightoj.com/problem/dimik-word-disaster
+13. https://lightoj.com/problem/dimik-prime-number
+14. https://lightoj.com/problem/dimik-alien-gupi
+15. https://lightoj.com/problem/dimik-random-array
+16. https://lightoj.com/problem/dimik-palindrome
+17. https://lightoj.com/problem/dimik-left-right
+18. https://lightoj.com/problem/dimik-diamond-kingdom
+19. https://lightoj.com/problem/dimik-letter-to-number
+
+Beecrowd
+--------
+1. https://www.beecrowd.com.br/judge/en/problems/view/1003
+2. https://www.beecrowd.com.br/judge/en/problems/view/1013
+3. https://www.beecrowd.com.br/judge/en/problems/view/1012
+4. https://www.beecrowd.com.br/judge/en/problems/view/1015
+5. https://www.beecrowd.com.br/judge/en/problems/view/1035
+6. https://www.beecrowd.com.br/judge/en/problems/view/1044
+
+CodeChef
+--------
+1. https://www.codechef.com/problems/AGELIMIT
+2. https://www.codechef.com/problems/SQUATS
+3. https://www.codechef.com/problems/TAXSAVING
+4. https://www.codechef.com/problems/LUDO
+5. https://www.codechef.com/problems/WATERCONS
+6. https://www.codechef.com/problems/BURGERS
+7. https://www.codechef.com/problems/TALLER
+8. https://www.codechef.com/problems/REACHTARGET
+9. https://www.codechef.com/problems/BTRYHLTH
+10. https://www.codechef.com/problems/SUMM
+11. https://www.codechef.com/problems/BULLBEAR
