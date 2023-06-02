@@ -31,7 +31,7 @@ You can find the solutions to problems from each platform in their respective di
 
 The solutions to the problems are organized under the following directories:
 
-### Codeforces
+### [Codeforces](./codeforces)
 
 - [59A](codeforces/59A.c)
 - [271A](codeforces/271A.cpp)
