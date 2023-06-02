@@ -33,7 +33,7 @@ The solutions to the problems are organized under the following directories:
 
 ### Codeforces
 
-- [59A](codeforces/59A.c)
+- [59A](Codeforces/59A.c)
 - [271A](codeforces/271A.cpp)
 - [71A](codeforces/71A.cpp)
 - [339A](codeforces/339A.cpp)
