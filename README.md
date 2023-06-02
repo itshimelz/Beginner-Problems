@@ -46,7 +46,7 @@ The solutions to the problems are organized under the following directories:
 
 ### LightOJ
 
-- [Dimik Even Odd 2](lightoj/dimik-even-odd-2.cpp)
+- [Dimik Even Odd 2](lightoj/dimik-even-odd-2.c)
 - [Dimik Divisor](lightoj/dimik-divisor.cpp)
 - [Dimik Box 1](lightoj/dimik-box-1.cpp)
 - [Dimik Count Numbers](lightoj/dimik-count-numbers.cpp)
