@@ -31,9 +31,9 @@ You can find the solutions to problems from each platform in their respective di
 
 The solutions to the problems are organized under the following directories:
 
-### [Codeforces](./codeforces)
+### [Codeforces](./Codeforces)
 
-- [59A](codeforces/59A.c)
+- [59A](Codeforces/59A.c)
 - [271A](codeforces/271A.cpp)
 - [71A](codeforces/71A.cpp)
 - [339A](codeforces/339A.cpp)
@@ -44,9 +44,9 @@ The solutions to the problems are organized under the following directories:
 - [510A](codeforces/510A.cpp)
 - [4A](codeforces/4A.cpp)
 
-### LightOJ
+### [LightOJ](./LightOJ/)
 
-- [Dimik Even Odd 2](lightoj/dimik-even-odd-2.c)
+- [Dimik Even Odd 2](LightOJ/dimik-even-odd-2.c)
 - [Dimik Divisor](lightoj/dimik-divisor.cpp)
 - [Dimik Box 1](lightoj/dimik-box-1.cpp)
 - [Dimik Count Numbers](lightoj/dimik-count-numbers.cpp)
