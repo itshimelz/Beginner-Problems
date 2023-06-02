@@ -1,0 +1,1 @@
+// LightOJ link: https://lightoj.com/problem/dimik-even-odd-2
