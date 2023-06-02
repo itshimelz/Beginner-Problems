@@ -1,7 +1,6 @@
 // Codeforces link: https://codeforces.com/problemset/problem/59/A
 
 #include <stdio.h>
-
 int main()
 {
     char word[101];
