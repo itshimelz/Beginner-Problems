@@ -1,6 +1,8 @@
 # Beginner Problems
 
 This repository contains my solutions to beginner-level competitive programming problems from various online platforms. It serves as a learning resource for those starting their journey in competitive programming.
+Each problem is organized into its respective folder, and within each folder, you can find a set of problem files along with a folder named `Code Explanations`. The problem files contain the problem statements, input/output formats, and sometimes, example test cases. The `Code Explanations` folder contains explanations and solutions for each problem.
+
 
 ## Table of Contents
 
