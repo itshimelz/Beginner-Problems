@@ -36,8 +36,8 @@ The solutions to the problems are organized under the following directories:
 ### [Codeforces](./Codeforces)
 
 - [59A](Codeforces/59A.c)
-- [271A](codeforces/271A.c)
-- [71A](codeforces/71A.cpp)
+- [271A](Codeforces/271A.c)
+- [71A](Codeforces/71A.c)
 - [339A](codeforces/339A.cpp)
 - [236A](codeforces/236A.cpp)
 - [266A](codeforces/266A.cpp)
